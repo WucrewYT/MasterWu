@@ -1,0 +1,12 @@
+body{
+	background: linear-gradient(to bottom,#f4d03f,#f7dc6f);
+}
+h1{
+	font-size: 50px; color: #641e16;
+}
+h2{
+	font-size: 45px; color: #7b241c;
+}
+span{
+	color: #c0392b;
+}
